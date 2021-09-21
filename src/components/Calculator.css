@@ -3,6 +3,7 @@
   margin: 5em auto;
   width: 100%;
   display: grid;
+
   /* border: 1px solid black; */
   grid-template-columns: 0fr 1fr 1fr 1fr;
   grid-template-rows: 0fr 0fr 0fr 0fr 0fr 0fr;
