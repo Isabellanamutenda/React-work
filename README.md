@@ -1,8 +1,7 @@
 # Math Magicians
 In this project I created a simple calculator using React framework.
 
-x-special/nautilus-clipboard
-copy
+
 file:///home/isabella/Pictures/Screenshot%20from%202021-09-21%2022-51-29.png
 
 
