@@ -25,3 +25,13 @@ code {
     'Courier New',
     monospace;
 }
+
+button {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+input {
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
