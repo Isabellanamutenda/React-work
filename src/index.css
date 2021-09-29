@@ -8,8 +8,8 @@
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
   line-height: 1.4;
-  color: #444;
-  background: #fff;
+  color: #333;
+  background: #52b788;
   height: 100vh;
 }
 
@@ -24,10 +24,10 @@ body {
 
 .input {
   grid-column: span 4;
-  background-color: #d0d1d8;
+  background-color: #40916c;
   justify-content: flex-end;
   padding: 0 0.5rem;
-  border: 1px solid rgb(51, 51, 51);
+  border: 1px solid black;
 }
 
 .zero {
@@ -39,22 +39,22 @@ span {
   height: 3rem;
   align-items: center;
   justify-content: center;
-  background-color: #e0e0e0;
+  background-color: #370617;
 }
 
 .orange {
-  background-color: #f5913e;
-  border: 1px solid rgb(83, 83, 83);
+  background-color: #b7e4c7;
+  border: 1px solid black;
 }
 
 .orange:hover {
-  background-color: #fc7d15;
-  border: 1px solid rgb(155, 155, 155);
+  background-color: #40916c;
+  border: 1px solid black;
 }
 
 .orange:active {
-  background-color: #ffad6a;
-  border: 1px solid rgb(92, 92, 92);
+  background-color: #40916c;
+  border: 1px solid black;
 }
 
 .header {

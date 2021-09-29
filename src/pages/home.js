@@ -6,27 +6,21 @@ class Home extends PureComponent {
       <div className="about">
         <h2>Welcome to our page</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
-          placeat nam voluptates ab? Mollitia distinctio incidunt iste
-          necessitatibus facilis, sequi repellendus, deserunt officia illo iure
-          minima eligendi impedit eveniet vero.
+          Pascaline, also called Arithmetic Machine,
+          the first calculator or adding machine to be produced in any quantity and actually used
+          The Pascaline was designed and built by the French mathematician-philosopher
+          Blaise Pascal between 1642 and 1644.
+          It could only do addition and subtraction,
+          Pascal invented the machine for his father, a tax collector, so it was the first business
+          machine too (if one does not count the abacus).
+          He built 50 of them over the next 10 years.
         </p>
         <p>
-          Alias hic quos consequatur, neque odit repudiandae corporis quis
-          aperiam laboriosam in nobis commodi eveniet sint numquam voluptatem
-          rerum ipsam similique, omnis a corrupti laborum natus tempore! Aut,
-          aliquam quibusdam!
-        </p>
-        <p>
-          Quod commodi, quia voluptate at atque quis laboriosam illum architecto
-          quasi veritatis eos magni ut dicta ad, vitae, explicabo quidem. Autem
-          nulla a recusandae similique, eaque aut eum! Ea, magnam.
-        </p>
-        <p>
-          Itaque maiores amet, eum cupiditate exercitationem porro libero
-          consequatur esse optio nostrum sed aliquam fugit repudiandae alias
-          unde minima soluta, excepturi nemo. Maiores nemo quos dolorem at
-          voluptatibus nihil ipsa.
+          Difference Engine, an early calculating machine, verging on being the first computer,
+          designed and partially built during the 1820s and ’30s by Charles Babbage.
+          Babbage was an English mathematician and inventor; he invented the cowcatcher,
+          reformed the British postal system, and was a pioneer in the fields of operations
+          research and actuarial science.
         </p>
       </div>
     );
