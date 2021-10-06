@@ -14,8 +14,9 @@ In this project I created a simple calculator using React framework.
 
 
 
-<!-- ## Live Demo
-[Live Demo Link]() -->
+## Live Demo
+[Heroku Demo Link](https://nameless-badlands-85994.herokuapp.com/ | https://git.heroku.com/nameless-badlands-85994.git)
+[Netlify link] (https://optimistic-turing-0b73ff.netlify.app/)
 
 
 ## Installation
