@@ -30,7 +30,7 @@ run npm start to launch in your browser
 
 👤 **Isabella Namutenda**
 
-- GitHub: [https://github.com/Isabellanamutenda)
+- GitHub:[Isabellanamutenda](https://github.com/Isabellanamutenda)
 
 
 ## 🤝 Contributing
